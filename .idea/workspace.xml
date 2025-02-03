@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63767141-cc6f-4332-a8d6-0edfe82dbc0a" name="Changes" comment="prova 1">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="63767141-cc6f-4332-a8d6-0edfe82dbc0a" name="Changes" comment="prova 2">
+      <change afterPath="$PROJECT_DIR$/Iterazione 1/prova.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prova.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "robertavallelunga"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;robertavallelunga&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/robertavallelunga/EMS&quot;,
@@ -82,7 +85,7 @@
       <updated>1738577042176</updated>
       <workItem from="1738577043963" duration="1511000" />
       <workItem from="1738578590395" duration="183000" />
-      <workItem from="1738578789840" duration="4399000" />
+      <workItem from="1738578789840" duration="5127000" />
     </task>
     <task id="LOCAL-00001" summary="prova 1">
       <option name="closed" value="true" />
@@ -92,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738582464227</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="prova 2">
+      <option name="closed" value="true" />
+      <created>1738583566979</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738583566979</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +111,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prova 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="prova 1" />
+    <MESSAGE value="prova 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="prova 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
