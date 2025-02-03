@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63767141-cc6f-4332-a8d6-0edfe82dbc0a" name="Changes" comment="prova 2">
-      <change afterPath="$PROJECT_DIR$/Iterazione 1/prova.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova.java" beforeDir="false" />
-    </list>
+    <list default="true" id="63767141-cc6f-4332-a8d6-0edfe82dbc0a" name="Changes" comment="organizzazione provvisoria" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738583566979</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="organizzazione provvisoria">
+      <option name="closed" value="true" />
+      <created>1738597262318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738597262318</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +114,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prova 1" />
     <MESSAGE value="prova 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="prova 2" />
+    <MESSAGE value="organizzazione provvisoria" />
+    <option name="LAST_COMMIT_MESSAGE" value="organizzazione provvisoria" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
