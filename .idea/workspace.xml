@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63767141-cc6f-4332-a8d6-0edfe82dbc0a" name="Changes" comment="prova 2">
-      <change afterPath="$PROJECT_DIR$/Iterazione 1/prova.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova.java" beforeDir="false" />
-    </list>
+    <list default="true" id="63767141-cc6f-4332-a8d6-0edfe82dbc0a" name="Changes" comment="prova 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,12 +24,12 @@
     &quot;assignee&quot;: &quot;robertavallelunga&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/robertavallelunga/EMS&quot;,
-    &quot;accountId&quot;: &quot;8bc637a4-63b4-46c6-90f7-bef8d6aa7f29&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/robertavallelunga/EMS.git",
+    "accountId": "192de596-4c87-4422-800d-01945a9ff668"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -86,6 +80,7 @@
       <workItem from="1738577043963" duration="1511000" />
       <workItem from="1738578590395" duration="183000" />
       <workItem from="1738578789840" duration="5127000" />
+      <workItem from="1738585280216" duration="521000" />
     </task>
     <task id="LOCAL-00001" summary="prova 1">
       <option name="closed" value="true" />
